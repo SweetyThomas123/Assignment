@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T01:01:28 IST" name="Default suite" finished-at="2024-02-29T01:01:46 IST" duration-ms="18535">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T01:01:28 IST" name="Default test" finished-at="2024-02-29T01:01:46 IST" duration-ms="18535">
+      <class name="asgnmt.RishiHerbals">
+        <test-method is-config="true" signature="setup()[pri:0, instance:asgnmt.RishiHerbals@293a5bf6]" started-at="2024-02-29T01:01:28 IST" name="setup" finished-at="2024-02-29T01:01:29 IST" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlloading()[pri:0, instance:asgnmt.RishiHerbals@293a5bf6]" started-at="2024-02-29T01:01:29 IST" name="urlloading" finished-at="2024-02-29T01:01:33 IST" duration-ms="3452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlloading -->
+        <test-method signature="test()[pri:0, instance:asgnmt.RishiHerbals@293a5bf6]" started-at="2024-02-29T01:01:33 IST" name="test" finished-at="2024-02-29T01:01:46 IST" duration-ms="13401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- asgnmt.RishiHerbals -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
